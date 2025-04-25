@@ -55,7 +55,7 @@ fls -version
 
 ![Screenshot 2025-04-25 090257](https://github.com/user-attachments/assets/d991fb24-c8d9-4ae7-ab53-0461ff515377)
 
-## VIRTUAL MACHIN(KALI LINUX):
+## VIRTUAL MACHINE(KALI LINUX):
 
 ![Screenshot 2025-04-25 090849](https://github.com/user-attachments/assets/b6783b5a-110d-4295-9947-a88b98e53332)
 
